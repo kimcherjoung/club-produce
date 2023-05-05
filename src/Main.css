@@ -1,0 +1,37 @@
+body {
+    overflow: hidden;
+
+}
+
+.mainPage{
+    width: 100%;
+    height: 725px;
+    margin: 0;
+}
+
+.rightButton{
+    position: absolute;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    bottom: 300px;
+    right: 0px;
+}
+
+.leftButton{
+    display: inline-block;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    bottom: 270px;
+    left: 0px;
+    cursor: pointer;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
+
+
